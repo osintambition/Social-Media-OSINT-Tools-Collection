@@ -40,7 +40,7 @@ Social Media Osint, also known as Social media intelligence allows one to collec
 
 ## Facebook -
 
-1. **Facebook Recover Lookup**
+1.  **Facebook Recover Lookup**
 - Link: [Facebook Recover Lookup](https://www.facebook.com/login/identify?ctx=recover)
 - Description: Used to check if a given email or phone number is associated with any Facebook account or not.
 
@@ -760,13 +760,13 @@ Contributions are always welcome!
 
 You can contact us any time on any of our social media platforms for any kind of suggestions and Contributions.
 
-Official Mail - test@gmail.com
+Official Mail - osintambition@gmail.com
 
 GitHub - [https://github.com/osintambition](https://github.com/osintambition)
 
 Twitter - [https://twitter.com/osintambition](https://twitter.com/osintambition)
 
-Telegram - [https://t.me/infurious_icc](https://t.me/osintambition)
+Telegram - [https://t.me/osintambition](https://t.me/osintambition)
 
 
 Developed with ❤️ in India 🇮🇳 
