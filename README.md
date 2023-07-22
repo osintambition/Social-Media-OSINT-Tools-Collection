@@ -24,11 +24,17 @@ The OSINT Ambition is a comprehensive and dynamic project aimed at empowering pe
 
 [4. Instagram](#instagram-- )
 
-[5. Linkden](#linkden-- )
+[5. LinkedIn](#linkedin-- )
 
 [6. Twitter](#twitter-- )
 
-[7. FAQs](#faq )
+[7. Pinterest](#pinterest)
+
+[8. Reddit](#reddit)
+
+[9. Github](#github)
+
+[10. FAQs](#faq )
 
 ## What is OSINT
 
@@ -100,7 +106,7 @@ Social Media Osint, also known as Social media intelligence allows one to collec
 - Description: Download pictures (or videos) along with their captions and other metadata from Instagram.
 
 
-## Linkden -
+## LinkedIn -
 
 1. **RecruitEm**
 - Link: [RecruitEm](https://recruitin.net/)
