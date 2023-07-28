@@ -8,7 +8,7 @@ A collection of most useful tools for social media osint.
 
 - [@dheerajydv19](https://github.com/dheerajydv19)
 
-- [@MrKingAnubis](https://github.com/MrKingAnubis)
+- [@swayamsopnic](https://twitter.com/Swayamsopnic16)
 
 
 ## 🚀 About Us
