@@ -80,10 +80,6 @@ Social Media Osint, also known as Social media intelligence allows one to collec
 - Link: [Facebook People Search](https://www.facebook.com/directory/people/)
 - Description: Search on Facebook by victim's name.
 
-9. **Facebook Page Analytics tool**
-- Link: [Facebook Page Analytics tool](https://barometer.agorapulse.com/home)
-- Description: Find out how your page performances are compared to the average performances of the 42,578 pages added to the Barometer.
-
  
 ## Instagram -
  
