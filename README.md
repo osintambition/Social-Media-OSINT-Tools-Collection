@@ -84,16 +84,16 @@ Social Media Osint, also known as Social media intelligence allows one to collec
 ## Instagram -
  
 1. **Igram**
-- Link: [Igram](https://igram.io/)
+- Link: [SnapInsta](https://snapinsta.app)
 - Description: Download Photos, Videos, IGTV & more from a public Instagram account.
 
 2. **IFTTT**
-- Link: [IFTTT](https://ifttt.com/)
-- Description: Allows a user to program a response to events in the world.
+- Link: [IFTTT Instagram integrations](https://ifttt.com/instagram)
+- Description: Popular Instagram workflows & automations.
 
 3. **Pickuki**
 - Link: [Pickuki](https://www.picuki.com/)
-- Description: Edit and browse Instagram content without logging in.
+- Description: Browse publicly available Instagram content without logging in.
 
 4. **Gramhir**
 - Link: [Gramhir](https://gramhir.com/)
