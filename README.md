@@ -83,11 +83,11 @@ Social Media Osint, also known as Social media intelligence allows one to collec
  
 ## Instagram -
  
-1. **Igram**
+1. **SnapInsta**
 - Link: [SnapInsta](https://snapinsta.app)
 - Description: Download Photos, Videos, IGTV & more from a public Instagram account.
 
-2. **IFTTT**
+2. **IFTTT Integrations**
 - Link: [IFTTT Instagram integrations](https://ifttt.com/instagram)
 - Description: Popular Instagram workflows & automations.
 
@@ -95,9 +95,9 @@ Social Media Osint, also known as Social media intelligence allows one to collec
 - Link: [Pickuki](https://www.picuki.com/)
 - Description: Browse publicly available Instagram content without logging in.
 
-4. **Gramhir**
-- Link: [Gramhir](https://gramhir.com/)
-- Description: Analyze and explore Instagram in a new and better way.
+4. **IMGinn.io**
+- Link: [IMGinn.io](https://imginn.io/)
+- Description: view and download all the content on the social network Instagram all at one place. 
 
 5. **Instaloader**
 - Link: [Instaloader](https://github.com/instaloader/instaloader)
@@ -111,7 +111,7 @@ Social Media Osint, also known as Social media intelligence allows one to collec
 - Description: Allows you to search social media profiles. It helps recruiters to create a Google boolean string that searches all public profiles.
 
 2. **RocketReach**
-- Link: [RocketReach](https://rocketreach.co/api?section=nav_ws_lookupProfile)
+- Link: [RocketReach](https://rocketreach.co/person)
 - Description: Allows you to programmatically search and lookup contact info over 700 million professionals and 35 million companies.
 
  
