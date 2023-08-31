@@ -143,47 +143,31 @@ Social Media Osint, also known as Social media intelligence allows one to collec
    - Link: [Pinterest Photo Downloader](https://www.expertsphp.com/pinterest-photo-downloader.html)
    - Description: Website providing a tool to download photos from Pinterest.
 
-4. **Pingroupie**
+3. **Pingroupie**
    - Link: [Pingroupie](http://pingroupie.com)
    - Description: A Meta Search Engine for Pinterest that lets you discover Collaborative Boards, Influencers, Pins, and new Keywords.
 
-5. **Pinontop**
+4. **Pinontop**
    - Link: [Pinontop](https://chrome.google.com/webstore/detail/pinontop-stay-ontop-of-p/ompbffakmhdgkeeholbbhpjlcmbdcnme?hl=en)
    - Description: Google Chrome extension for keeping Pinterest on top of other windows while browsing.
 
-6. **Pinterest Guest**
+5. **Pinterest Guest**
    - Link: [Pinterest Guest](https://addons.mozilla.org/en-US/firefox/addon/pinterest-guest)
    - Description: Mozilla Firefox add-on for browsing Pinterest without logging in or creating an account.
 
-7. **SourcingLab: Pinterest**
+6. **SourcingLab: Pinterest**
    - Link: [SourcingLab: Pinterest](https://sourcinglab.io/search/pinterest)
    - Description: Pinterest search feature for finding pins, boards, and users.
 
-8. **Tailwind**
+7. **Tailwind**
    - Link: [Tailwind](https://www.tailwindapp.com)
    - Description: Social media scheduling and management tool that supports Pinterest.
 
 ## Reddit
 
-1. **Aware Online: Reddit Search**
-   - Link: [Aware Online: Reddit Search](http://www.aware-online.com/en/osint-tools/redditsearch-tool)
-   - Description: Reddit search tool for performing OSINT (Open-Source Intelligence) searches on Reddit.
-
-2. **Ceddit**
-   - Link: [Ceddit](https://snew.notabug.io/r/all)
-   - Description: Website that allows you to view deleted comments and threads on Reddit.
-
-3. **Chatter**
-   - Link: [Chatter](https://github.com/visualbasic6/chatter)
-   - Description: A command-line tool for searching and monitoring Reddit.
-
 4. **F5BOT**
    - Link: [F5BOT](https://f5bot.com)
    - Description: Receive notifications for new Reddit posts matching specific keywords.
-
-5. **Imagoid**
-   - Link: [Imagoid](http://www.imagoid.com)
-   - Description: Extract images from Reddit posts and comments.
 
 6. **Imgur**
    - Link: [Imgur](http://imgur.com)
@@ -192,14 +176,6 @@ Social Media Osint, also known as Social media intelligence allows one to collec
 7. **Karma Decay**
    - Link: [Karma Decay](http://karmadecay.com)
    - Description: Reverse image search for finding similar or reposted images on Reddit.
-
-8. **Koalabear Reddit**
-   - Link: [Koalabear Reddit](https://koalabear.nl/reddit)
-   - Description: Reddit search and analytics tool with features like sentiment analysis and keyword tracking.
-
-9. **Minimalism for Reddit**
-   - Link: [Minimalism for Reddit](https://reddit.qnzl.co)
-   - Description: Simplified and minimalistic Reddit browsing experience.
 
 10. **Mostly Harmless**
     - Link: [Mostly Harmless](http://kerrick.github.io/Mostly-Harmless/#features)
@@ -210,12 +186,8 @@ Social Media Osint, also known as Social media intelligence allows one to collec
     - Description: Analyze and gather information from Reddit posts for OSINT purposes.
 
 12. **Phantom Buster**
-    - Link: [Phantom Buster](https://phantombuster.com/phantombuster)
+    - Link: [Phantom Buster](https://phantombuster.com/phantombuster?category=reddit)
     - Description: Automation tool suite that includes Reddit data extraction capabilities.
-
-13. **rarchives**
-    - Link: [rarchives](https://i.rarchives.com)
-    - Description: Website for archiving Reddit posts and comments.
 
 14. **rdddeck**
     - Link: [rdddeck](https://rdddeck.com)
