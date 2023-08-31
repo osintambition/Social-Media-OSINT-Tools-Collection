@@ -165,187 +165,133 @@ Social Media Osint, also known as Social media intelligence allows one to collec
 
 ## Reddit
 
-4. **F5BOT**
+1. **F5BOT**
    - Link: [F5BOT](https://f5bot.com)
    - Description: Receive notifications for new Reddit posts matching specific keywords.
 
-7. **Karma Decay**
+2. **Karma Decay**
    - Link: [Karma Decay](http://karmadecay.com)
    - Description: Reverse image search for finding similar or reposted images on Reddit.
 
-10. **Mostly Harmless**
+3. **Mostly Harmless**
     - Link: [Mostly Harmless](http://kerrick.github.io/Mostly-Harmless/#features)
     - Description: A suite of tools for Reddit, including user analysis, subreddit comparison, and more.
 
-11. **OSINT Combine: Reddit Post Analyzer**
+4. **OSINT Combine: Reddit Post Analyzer**
     - Link: [OSINT Combine: Reddit Post Analyzer](https://www.osintcombine.com/reddit-post-analyser)
     - Description: Analyze and gather information from Reddit posts for OSINT purposes.
 
-12. **Phantom Buster**
+5. **Phantom Buster**
     - Link: [Phantom Buster](https://phantombuster.com/phantombuster?category=reddit)
     - Description: Automation tool suite that includes Reddit data extraction capabilities.
 
-14. **rdddeck**
+6. **rdddeck**
     - Link: [rdddeck](https://rdddeck.com)
     - Description: Real-time dashboard for monitoring multiple Reddit communities.
 
-15. **Readr for Reddit**
+7. **Readr for Reddit**
     - Link: [Readr for Reddit](https://chrome.google.com/webstore/detail/readr-forreddit/molhdaofohigaepljchpmfablknhabmo)
     - Description: Google Chrome extension for an improved reading experience on Reddit.
 
-16. **Reddit Archive**
+8. **Reddit Archive**
     - Link: [Reddit Archive](http://www.redditarchive.com)
     - Description: Archive of Reddit posts and comments for historical reference.
 
-18. **Reddit Comment Search**
+9. **Reddit Comment Search**
     - Link: [Reddit Comment Search](https://redditcommentsearch.com)
     - Description: Search for specific comments and conversations on Reddit.
 
-19. **Redditery**
+10. **Redditery**
     - Link: [Redditery](http://www.redditery.com)
     - Description: Explore Reddit posts and comments based on various criteria.
 
-21. **Reddit Hacks**
+11. **Reddit Hacks**
     - Link: [Reddit Hacks](https://github.com/EdOverflow/hacks)
     - Description: Collection of Reddit hacks and tricks for advanced users.
 
-22. **Reddit List**
+12. **Reddit List**
     - Link: [Reddit List](http://redditlist.com)
     - Description: Directory of popular subreddits organized by various categories.
 
-26. **reddtip**
+13. **reddtip**
     - Link: [reddtip](https://www.redditp.com)
     - Description: Show appreciation to Reddit users by sending them tips in cryptocurrencies.
 
-28. **Reddit Search**
+14. **Reddit Search**
     - Link: [Reddit Search (realsrikar)](https://realsrikar.github.io/reddit-search)
-    - Link: [Reddit Search (camas)](https://camas.github.io/reddit-search)
     - Link: [Reddit Search (cemulate)](http://cemulate.github.io/reddit-search)
     - Link: [Reddit Search (redditsearch.io)](https://www.redditsearch.io)
-    - Link: [Reddit Search (reddysearchgo)](https://reddysearchgo.herokuapp.com)
     - Link: [Reddit Search (reddit-search)](http://reddit-search.surge.sh)
     - Link: [Reddit Search (react-reddit-search-app)](https://react-reddit-search-app.web.app)
     - Link: [Reddit Search (viralharia)](https://viralharia.github.io/finddit)
     - Description: Various tools and websites for searching and discovering content on Reddit.
 
-29. **Reddit Search Tool (Aware Online)**
-    - Link: [Reddit Search Tool (Aware Online)](http://www.aware-online.com/en/osint-tools/redditsearch-tool)
-    - Description: Search tool for Reddit to perform OSINT searches and gather intelligence.
-
-30. **Reddit Shell**
+15. **Reddit Shell**
     - Link: [Reddit Shell](https://redditshell.com)
     - Description: Command-line interface for browsing and interacting with Reddit.
 
-31. **Reddit Stream**
+16. **Reddit Stream**
     - Link: [Reddit Stream](http://reddit-stream.com)
     - Description: Live-streaming of Reddit comments for real-time discussions.
 
-32. **Reddit Suite**
+17. **Reddit Suite**
     - Link: [Reddit Enhancement Suite (Chrome Extension)](https://chrome.google.com/webstore/detail/redditenhancementsuite/kbmfpngjjgdllneeigpgjifpgocmfgmb)
     - Link: [Reddit Enhancement Suite (Firefox Add-on)](https://addons.mozilla.org/enGB/firefox/addon/reddit-enhancement-suite)
     - Description: Browser extension that enhances the Reddit browsing experience with additional features.
 
-33. **Reddit User Analyser**
+18. **Reddit User Analyser**
     - Link: [Reddit User Analyser](https://atomiks.github.io/reddit-user-analyser)
     - Description: Analyze and visualize the activity and behavior of Reddit users.
 
-34. **redditvids**
+19. **redditvids**
     - Link: [redditvids](https://redditvids.com)
     - Description: Watch Reddit videos and browse popular video subreddits.
 
-35. **Redective**
+18. **Redective**
     - Link: [Redective](http://redective.com)
     - Description: Investigate and analyze Reddit users based on their post history.
 
-36. **Reditr**
+19. **Reditr**
     - Link: [Reditr](http://reditr.com)
     - Description: Desktop Reddit client with a clean and intuitive interface.
 
-37. **Reeddit**
+20. **Reeddit**
     - Link: [Reeddit](https://reedditapp.com)
     - Description: Simplified and clean Reddit web interface for a distraction-free browsing experience.
 
-38. **ReSavr**
+21. **ReSavr**
     - Link: [ReSavr](https://www.resavr.com)
     - Description: Retrieve and save deleted Reddit comments for later viewing.
 
-39. **Savvit.io**
-    - Link: [Savvit.io](http://savvit.io)
-    - Description: Reddit search and analytics tool for tracking keywords and trends.
-
-40. **Sayit**
-    - Link: [Sayit](https://anvaka.github.io/sayit/?query=)
-    - Description: Visualize and explore Reddit comment threads in an interactive way.
-
-41. **Searcheddit**
-    - Link: [Searcheddit](http://searcheddit.com)
-    - Description: Search for posts and comments across multiple subreddits.
-
-42. **Search Reddit**
-    - Link: [Search Reddit](https://searchreddit.blogspot.com)
-    - Description: Blog with tips and resources for effectively searching and finding content on Reddit.
-
-43. **SHINE for Reddit**
-    - Link: [SHINE for Reddit](https://chrome.google.com/webstore/detail/shine-forredditunoffici/dlbccbcpelghmhkhmpefncahafgigkek?hl=en)
-    - Description: Unofficial Reddit enhancement suite with various features and customization options.
-
-44. **Simpleddit**
-    - Link: [Simpleddit](http://www.simpleddit.com)
-    - Description: Simple and lightweight Reddit browsing interface.
-
-45. **smat**
+22. **smat**
     - Link: [smat](https://www.smat-app.com/timeline)
     - Description: Social media analytics tool that includes Reddit for tracking trends and engagement.
 
-46. **Snew**
-    - Link: [Snew](https://snew.notabug.io/r/all)
-    - Description: Browse Reddit with removed and deleted content restored.
-
-47. **SnoopSnoo**
-    - Link: [SnoopSnoo](http://snoopsnoo.com)
-    - Description: Analyze and explore Reddit users and their posting habits.
-
-48. **socid_extractor**
+23. **socid_extractor**
     - Link: [socid_extractor](https://github.com/soxoj/socid_extractor)
     - Description: Extract user information from Reddit and other social media platforms.
 
-49. **Subbed**
-    - Link: [Subbed](https://subbed.org)
-    - Description: Find popular subreddit recommendations based on your interests.
-
-50. **Suggest me a subreddit**
+24. **Suggest me a subreddit**
     - Link: [Suggest me a subreddit](https://nikas.praninskas.com/suggest-subreddit)
     - Description: Get recommendations for new subreddits to explore based on your preferences.
 
-51. **Subreddits**
+25. **Subreddits**
     - Link: [Subreddits](http://subreddits.org)
     - Description: Directory of active subreddits organized by various categories.
-
-52. **Tidder**
-    - Link: [Tidder](http://tidder.xyz)
-    - Description: Simple Reddit reader for browsing posts and comments.
-
-53. **TrackReddit**
-    - Link: [TrackReddit](https://www.trackreddit.com/dashboard.php)
-    - Description: Monitor and track specific keywords and phrases across Reddit.
-
-54. **Trending Words of Reddit**
-    - Link: [Trending Words of Reddit](https://trendingwordsofreddit.herokuapp.com)
-    - Description: Discover the most trending words and phrases on Reddit.
-
-55. **uforio**
+     
+26. **uforio**
     - Link: [uforio](http://uforio.com)
     - Description: Generate word clouds from Reddit comment threads.
 
-56. **Universal Reddit Scraper (URS)**
+27. **Universal Reddit Scraper (URS)**
     - Link: [Universal Reddit Scraper (URS)](https://github.com/JosephLai241/URS)
     - Description: Python-based tool for scraping Reddit data for analysis.
 
-57. **Vizit**
+28. **Vizit**
     - Link: [Vizit](https://redditstuff.github.io/sna/vizit)
     - Description: Visualize and analyze relationships between Reddit users and subreddits.
 
-58. **Wisdom of Reddit**
+29. **Wisdom of Reddit**
     - Link: [Wisdom of Reddit](https://wisdomofreddit.com)
     - Description: Curated collection of insightful quotes and comments from Reddit.
 
