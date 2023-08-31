@@ -117,53 +117,17 @@ Social Media Osint, also known as Social media intelligence allows one to collec
  
 ## Twitter -
  
-1. **Social Bearing**
-   - Link: [Social Bearing](https://socialbearing.com/)
-   - Description: Free Twitter analytics & search for tweets, timelines & Twitter maps. Find, filter, and sort tweets or people by engagement, influence, location, sentiment, and more.
-
-2. **Trendsmap**
-   - Link: [Trendsmap](https://www.trendsmap.com/)
-   - Description: Analyze any topic globally or by region in detail. Create unique map-based visualizations showing tweet activity across a country, a region, or the world.
-
-3. **Follower.me**
-   - Link: [Follower.me](https://foller.me/)
-   - Description: A Twitter analytics application that gives you rich insights about any public Twitter profile.
-
-4. **TweetBeaver**
-   - Link: [TweetBeaver](https://tweetbeaver.com/index.php)
-   - Description: Gather data on any non-private Twitter account and retrieve most searches as a CSV for easier filtering and analysis.
-
-5. **TweeterID**
-   - Link: [TweeterID](https://tweeterid.com/)
-   - Description: Easily look up any username (@handle) on Twitter and find out their corresponding ID.
-
-6. **TweetDeck**
+1. **TweetDeck**
    - Link: [TweetDeck](https://tweetdeck.twitter.com/)
    - Description: Offers a more convenient Twitter experience by allowing you to view multiple timelines in one easy interface.
 
-7. **Spoonbill**
-   - Link: [Spoonbill](http://spoonbill.io/)
-   - Description: Allows you to see profile changes from the people you follow on Twitter or other social networks.
-
-8. **FollowerWonk**
+2. **FollowerWonk**
    - Link: [FollowerWonk](https://followerwonk.com/bio)
    - Description: Helps you find Twitter accounts using bio and provides many other useful features.
 
-9. **Twitter Advanced Search**
+3. **Twitter Advanced Search**
    - Link: [Twitter Advanced Search](https://twitter.com/search-advanced)
    - Description: Allows you to search on Twitter using filters for better search results.
-
-10. **Twipho**
-    - Link: [Twipho](http://twipho.net/)
-    - Description: Lets you discover what's happening on Twitter right now, but via the medium of images rather than text-based tweets.
-
-11. **TweetMap**
-    - Link: [TweetMap](https://www.heavy.ai/demos/tweetmap)
-    - Description: Allows you to analyze Twitter accounts that you do not own and gain accurate insight on influencer interactions and personality.
-
-12. **TinfoLeak**
-    - Link: [TinfoLeak](https://tinfoleak.com/)
-    - Description: Provides basic information about a Twitter user, including name, picture, location, followers, etc.
 
 
 ## Pinterest
