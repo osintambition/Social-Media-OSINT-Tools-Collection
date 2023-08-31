@@ -169,10 +169,6 @@ Social Media Osint, also known as Social media intelligence allows one to collec
    - Link: [F5BOT](https://f5bot.com)
    - Description: Receive notifications for new Reddit posts matching specific keywords.
 
-6. **Imgur**
-   - Link: [Imgur](http://imgur.com)
-   - Description: Image hosting platform often used by Reddit users.
-
 7. **Karma Decay**
    - Link: [Karma Decay](http://karmadecay.com)
    - Description: Reverse image search for finding similar or reposted images on Reddit.
@@ -201,12 +197,6 @@ Social Media Osint, also known as Social media intelligence allows one to collec
     - Link: [Reddit Archive](http://www.redditarchive.com)
     - Description: Archive of Reddit posts and comments for historical reference.
 
-17. **Reddit Comment Collapser**
-    - Link: [Reddit Comment Collapser (Chrome Extension)](https://chrome.google.com/webstore/detail/redditcommentcollapser/njmimaecgocggclbecipdimilidimlpl)
-    - Link: [Reddit Comment Collapser (Firefox Add-on)](https://addons.mozilla.org/enUS/firefox/addon/reddit_comment_collapser)
-    - Link: [Reddit Comment Collapser (GitHub)](https://github.com/tom-james-watson/redditcomment-collapser)
-    - Description: Browser extension to collapse Reddit comment threads for easier reading.
-
 18. **Reddit Comment Search**
     - Link: [Reddit Comment Search](https://redditcommentsearch.com)
     - Description: Search for specific comments and conversations on Reddit.
@@ -214,10 +204,6 @@ Social Media Osint, also known as Social media intelligence allows one to collec
 19. **Redditery**
     - Link: [Redditery](http://www.redditery.com)
     - Description: Explore Reddit posts and comments based on various criteria.
-
-20. **Reddit Guide**
-    - Link: [Reddit Guide](https://reddit.guide)
-    - Description: Collection of user-curated guides and resources for using Reddit.
 
 21. **Reddit Hacks**
     - Link: [Reddit Hacks](https://github.com/EdOverflow/hacks)
@@ -227,25 +213,9 @@ Social Media Osint, also known as Social media intelligence allows one to collec
     - Link: [Reddit List](http://redditlist.com)
     - Description: Directory of popular subreddits organized by various categories.
 
-23. **Reddit Insight**
-    - Link: [Reddit Insight](https://www.redditinsight.com)
-    - Description: Analyze and visualize Reddit post data to gain insights.
-
-24. **Reddit Investigator**
-    - Link: [Reddit Investigator](http://www.redditinvestigator.com)
-    - Description: Analyze a Reddit user's post history and activity.
-
-25. **Reddit Metrics**
-    - Link: [Reddit Metrics](http://redditmetrics.com)
-    - Description: Explore the growth and trends of Reddit communities.
-
 26. **reddtip**
     - Link: [reddtip](https://www.redditp.com)
     - Description: Show appreciation to Reddit users by sending them tips in cryptocurrencies.
-
-27. **Reddit Profile**
-    - Link: [Reddit Profile](https://redditprofile.com)
-    - Description: Generate and view detailed profiles of Reddit users.
 
 28. **Reddit Search**
     - Link: [Reddit Search (realsrikar)](https://realsrikar.github.io/reddit-search)
