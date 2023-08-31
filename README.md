@@ -114,6 +114,9 @@ Social Media Osint, also known as Social media intelligence allows one to collec
 - Link: [RocketReach](https://rocketreach.co/person)
 - Description: Allows you to programmatically search and lookup contact info over 700 million professionals and 35 million companies.
 
+3. **Phantom Buster**
+   - Link: [Phantom Buster](https://phantombuster.com/phantombuster)
+   - Description: Automation tool suite that includes data extraction capabilities.
  
 ## Twitter -
  
@@ -140,13 +143,9 @@ Social Media Osint, also known as Social media intelligence allows one to collec
    - Link: [Pinterest Photo Downloader](https://www.expertsphp.com/pinterest-photo-downloader.html)
    - Description: Website providing a tool to download photos from Pinterest.
 
-3. **Phantom Buster**
-   - Link: [Phantom Buster](https://phantombuster.com/phantombuster)
-   - Description: Automation tool suite that includes Pinterest data extraction capabilities.
-
 4. **Pingroupie**
    - Link: [Pingroupie](http://pingroupie.com)
-   - Description: Directory of Pinterest group boards for searching and finding relevant boards.
+   - Description: A Meta Search Engine for Pinterest that lets you discover Collaborative Boards, Influencers, Pins, and new Keywords.
 
 5. **Pinontop**
    - Link: [Pinontop](https://chrome.google.com/webstore/detail/pinontop-stay-ontop-of-p/ompbffakmhdgkeeholbbhpjlcmbdcnme?hl=en)
