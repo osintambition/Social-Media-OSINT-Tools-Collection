@@ -377,59 +377,31 @@ Social Media Osint, also known as Social media intelligence allows one to collec
    - Link: [ChatToday](https://chattoday.com)
    - Description: An online chat platform for connecting and chatting with people from around the world.
 
-4. **Dizkover**
-   - Link: [Dizkover](https://www.dizkover.com)
-   - Description: A social discovery platform where users can find and connect with like-minded people.
-
-5. **Gebruikersnamen: Snapchat**
+4. **Gebruikersnamen: Snapchat**
    - Link: [Gebruikersnamen: Snapchat](https://gebruikersnamen.nl/snapchat)
    - Description: A website for finding Snapchat usernames.
 
-6. **GhostCodes**
+5. **GhostCodes**
    - Link: [GhostCodes](https://www.ghostcodes.com)
    - Description: An app for discovering new Snapchat users and their stories.
 
-7. **Listchats**
-   - Link: [Listchats](https://www.listchats.com)
-   - Description: A platform for finding and joining chat groups on various topics.
-
-8. **OSINT Combine: Snapchat MultiViewer**
+6. **OSINT Combine: Snapchat MultiViewer**
    - Link: [OSINT Combine: Snapchat MultiViewer](https://www.osintcombine.com/snapchat-multi-viewer)
    - Description: A tool for viewing multiple Snapchat accounts simultaneously.
 
-9. **snapdex**
-   - Link: [snapdex](https://www.snapdex.com)
-   - Description: A directory of Snapchat profiles, stories, and usernames.
-
-10. **Snap Map**
+7. **Snap Map**
     - Link: [Snap Map](https://map.snapchat.com)
     - Description: Snapchat's feature that allows users to share their location and view Snaps from around the world.
 
-11. **Snapchat-mapscraper**
+8. **Snapchat-mapscraper**
     - Link: [Snapchat-mapscraper](https://github.com/nemec/snapchat-map-scraper)
     - Description: A tool for scraping public Snapchat Stories from the Snap Map.
 
-12. **Snapmap-dl**
-    - Link: [Snapmap-dl](https://github.com/sdushantha/snapmap-dl)
-    - Description: A command-line tool to download Snapchat Map Stories.
-
-13. **Snap Nickname**
-    - Link: [Snap Nickname](https://snapnickname.com)
-    - Description: A website for generating random Snapchat nicknames.
-
-14. **Snap Political Ads Library**
+9. **Snap Political Ads Library**
     - Link: [Snap Political Ads Library](https://www.snap.com/en-GB/political-ads)
     - Description: Snapchat's library of political ads displayed on the platform.
 
-15. **SnapStory**
-    - Link: [SnapStory](https://github.com/sdushantha/SnapStory)
-    - Description: A Python library to download Snapchat Stories.
-
-16. **Snapyfox**
-    - Link: [Snapyfox](https://snapyfox.com)
-    - Description: A website for finding Snapchat usernames and stories.
-
-17. **Social Finder**
+10. **Social Finder**
     - Link: [Social Finder](https://socialfinder.app)
     - Description: A platform to search and discover social media profiles on various platforms.
 
@@ -440,27 +412,15 @@ Social Media Osint, also known as Social media intelligence allows one to collec
    - Link: [checkwa](https://checkwa.online)
    - Description: An online tool to check the status and availability of WhatsApp numbers.
 
-2. **Listchats**
-   - Link: [Listchats](https://www.listchats.com)
-   - Description: A platform for finding and joining chat groups on WhatsApp and other messaging apps.
-
-3. **WhatsAllApp**
-   - Link: [WhatsAllApp](https://github.com/LoranKloeze/WhatsAllApp)
-   - Description: A Python library for interacting with WhatsApp, including sending messages and automating tasks.
-
-4. **WhatsApp Fake Chat**
+2. **WhatsApp Fake Chat**
    - Link: [WhatsApp Fake Chat](http://www.fakewhats.com/generator)
    - Description: An online tool to generate fake WhatsApp conversations for fun or pranks.
 
-5. **Whatsapp-GroupContacts-Scraper**
-   - Link: [Whatsapp-GroupContacts-Scraper](https://github.com/situmorang-com/Whatsapp-GroupContacts-Scraper)
-   - Description: A Python script to scrape and extract contacts from WhatsApp group chats.
-
-6. **Whatsapp Monitor**
+3. **Whatsapp Monitor**
    - Link: [Whatsapp Monitor](https://github.com/ErikTschierschke/WhatsappMonitor)
    - Description: A tool for monitoring and analyzing WhatsApp messages and activities.
 
-7. **whatsfoto**
+4. **whatsfoto**
    - Link: [whatsfoto](https://github.com/zoutepopcorn/whatsfoto)
    - Description: A Python script to download profile pictures from WhatsApp contacts.
 
@@ -475,122 +435,74 @@ Social Media Osint, also known as Social media intelligence allows one to collec
    - Link: [ChatToday](https://chattoday.com)
    - Description: An online chat platform for connecting and chatting with people from around the world.
 
-3. **Listchats**
-   - Link: [Listchats](https://www.listchats.com)
-   - Description: A platform for finding and joining chat groups on various topics.
-
-4. **Skypli**
+3. **Skypli**
    - Link: [Skypli](https://www.skypli.com)
    - Description: A website for discovering and connecting with new Skype contacts.
 
 
 ## Telegram
 
-1. **Buzz.Im**
-   - Link: [Buzz.Im](https://search.buzz.im)
-   - Description: A search engine for finding Telegram channels, groups, and bots.
-
-2. **ChatBottle: Telegram**
+1. **ChatBottle: Telegram**
    - Link: [ChatBottle: Telegram](https://chatbottle.co/bots/telegram)
    - Description: A directory of Telegram bots for various purposes.
 
-3. **ChatToday**
+2. **ChatToday**
    - Link: [ChatToday](https://chattoday.com)
    - Description: An online chat platform for connecting and chatting with people from around the world.
 
-4. **fabledowl**
-   - Link: [fabledowl](https://gist.github.com/fabledowl)
-   - Description: A GitHub gist containing useful Telegram-related information and resources.
-
-5. **HowToFindBot**
-   - Link: [HowToFindBot](https://t.me/howtofind_bot)
-   - Description: A Telegram bot that helps you find other bots on Telegram.
-
-6. **informer**
+3. **informer**
    - Link: [informer](https://github.com/paulpierre/informer)
    - Description: A Python library for retrieving information about Telegram channels, groups, and users.
 
-7. **_IntelligenceX: Telegram**
+4. **_IntelligenceX: Telegram**
    - Link: [_IntelligenceX: Telegram](https://intelx.io/tools?tab=telegram)
    - Description: IntelligenceX's Telegram tool for searching and analyzing Telegram data.
 
-8. **IxGram**
-   - Link: [IxGram](https://www.telegramgroup1.com)
-   - Description: A platform to search and discover Telegram groups and channels.
-
-9. **Lyzem.com**
+5. **Lyzem.com**
    - Link: [Lyzem.com](https://lyzem.com)
    - Description: A website to search and find Telegram groups and channels.
-
-10. **Save Telegram Chat History**
-    - Link: [Save Telegram Chat History](https://github.com/pigpagnet/save-telegram-chat-history)
-    - Description: A tool to save and export the chat history of Telegram groups and channels.
-
-11. **Telegago**
-    - Link: [Telegago](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1)
-    - Description: A custom search engine to find content within Telegram groups and channels.
-
-12. **Telegram Channels**
+     
+7. **Telegram Channels**
     - Link: [Telegram Channels](https://telegramchannels.me)
     - Description: A directory of Telegram channels covering various topics.
 
-13. **Telegram Channels**
+8. **Telegram Channels**
     - Link: [Telegram Channels](https://tlgrm.eu/channels)
     - Description: A platform to discover and browse Telegram channels.
 
-14. **Telegram Channels Search**
+9. **Telegram Channels Search**
     - Link: [Telegram Channels Search](https://xtea.io/ts_en.html)
     - Description: A search engine to find Telegram channels by keywords.
 
-15. **Telegram Directory**
+10. **Telegram Directory**
     - Link: [Telegram Directory](https://tdirectory.me)
     - Description: A comprehensive directory of Telegram channels, groups, and bots.
 
-16. **Telegram Group**
+11. **Telegram Group**
     - Link: [Telegram Group](https://www.telegram-group.com)
     - Description: A website to search and join Telegram groups.
 
-17. **Telegram.im**
-    - Link: [Telegram.im](https://telegram.im/tools/index.php)
-    - Description: A collection of tools for Telegram, including channel analysis and member extraction.
-
-18. **telegram-history-dump**
+12. **telegram-history-dump**
     - Link: [telegram-history-dump](https://github.com/tvdstaaij/telegram-history-dump)
     - Description: A Python script to dump the history of a Telegram chat into a SQLite database.
 
-19. **Telegram List**
-    - Link: [Telegram List](https://telegramlist.com)
-    - Description: A platform to discover and submit Telegram channels, groups, and bots.
-
-20. **Telegram-osint-lib**
+13. **Telegram-osint-lib**
     - Link: [Telegram-osint-lib](https://github.com/Postuf/telegram-osint-lib)
     - Description: A Python library for performing open-source intelligence (OSINT) on Telegram.
 
-21. **Telegram Scraper**
+14. **Telegram Scraper**
     - Link: [Telegram Scraper](https://github.com/th3unkn0n/TeleGram-Scraper)
     - Description: A powerful Telegram scraping tool for extracting user information and media.
 
-22. **Tele.me: Hashtags**
-    - Link: [Tele.me: Hashtags](http://tele.me/hashtags)
-    - Description: A collection of popular Telegram hashtags for discovering new channels and groups.
-
-23. **Tfind.me**
-    - Link: [Tfind.me](https://tfind.me)
-    - Description: A search engine to find Telegram channels and groups.
-
-24. **There Is A Bot For That**
-    - Link: [There Is A Bot For That](https://thereisabotforthat.com)
-    - Description: A website showcasing various bots available on Telegram for different purposes.
-
-25. **Tgram.io**
+15. **Tgram.io**
     - Link: [Tgram.io](https://tgram.io)
     - Description: A platform to explore and search for Telegram channels, groups, and bots.
 
-26. **Tgstat.com**
+17. **Tgstat.com**
     - Link: [Tgstat.com](https://tgstat.com)
     - Description: A comprehensive platform for analyzing and tracking Telegram channels and groups.
 
-27. **Tgstat RU**
+18. **Tgstat RU**
     - Link: [Tgstat RU](https://tgstat.ru)
     - Description: A Russian platform for analyzing and monitoring Telegram channels and groups.
 
