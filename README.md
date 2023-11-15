@@ -117,6 +117,16 @@ Social Media Osint, also known as Social media intelligence allows one to collec
 3. **Phantom Buster**
    - Link: [Phantom Buster](https://phantombuster.com/phantombuster)
    - Description: Automation tool suite that includes data extraction capabilities.
+4. **linkedprospect**
+   - Link: [LinkedIn Boolean Search](https://linkedprospect.com/linkedin-boolean-search-tool/#tool)
+   - Description: Build a targeted list of LinkedIn people using boolean search.
+4. **ReverseContact**
+   - Link: [Reverse Email Lookup](https://www.reversecontact.com/)
+   - Description: Find Linked Profiles associated with any email.
+4. **LinkedIn Search Engine**
+   - Link: [Programmable Search Engine](https://cse.google.com/cse?cx=daaf18e804f81bed0)
+   - Description: Programmable Search Engine for LinkedIn profiles.
+
  
 ## Twitter -
  
