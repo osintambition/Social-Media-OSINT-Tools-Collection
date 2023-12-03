@@ -80,6 +80,25 @@ Social Media Osint, also known as Social media intelligence allows one to collec
 - Link: [Facebook People Search](https://www.facebook.com/directory/people/)
 - Description: Search on Facebook by victim's name.
 
+9. **DumpItBlue**
+- Link: [DumpItBlue+](https://chrome.google.com/webstore/detail/dumpitblue%2B/igmgknoioooacbcpcfgjigbaajpelbfe/)
+- Description: helps to dump Facebook stuff for analysis or reporting purposes.
+
+10. **Export Comments**
+- Link: [Export Comments](https://exportcomments.com/)
+- Description: Easily exports all comments from your social media posts to Excel file.
+
+11. **Facebook Applications**
+- Link: [Facebook Applications](https://khalil-shreateh.com/khalil.shtml/social_applications/facebook-applications/)
+- Description: A collection of online tools that automate and facilitate Facebook.
+
+12. **Social Analyzer**
+- Link: [SocialAnalyzer - Social Sentiment & Analysis](https://chromewebstore.google.com/detail/socialanalyzer-social-sen/efeikkcpimdfpdlmlbjdecnmkknjcfcp)
+- Description: a free tool of social media monitoring and analysis.
+
+12. **AnalyzeID**
+- Link: [AnalyzeID](https://analyzeid.com/)
+- Description: Just looking for sites that supposedly may have the same owner. Including a FaceBook App ID match.
  
 ## Instagram -
  
