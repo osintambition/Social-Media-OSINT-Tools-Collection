@@ -161,6 +161,14 @@ Social Media Osint, also known as Social media intelligence allows one to collec
    - Link: [Twitter Advanced Search](https://twitter.com/search-advanced)
    - Description: Allows you to search on Twitter using filters for better search results.
 
+4. **Wayback Tweets**
+   - Link: [Wayback Tweets](https://waybacktweets.streamlit.app/)
+   - Description: Display multiple archived tweets on Wayback Machine and avoid opening each link manually.
+
+5. **memory.lol**
+   - Link: [Wayback Tweets](https://memory.lol/app/)
+   - Description: a tiny web service that provides historical information about twitter users.
+
 
 ## Pinterest
 
