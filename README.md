@@ -99,6 +99,15 @@ Social Media Osint, also known as Social media intelligence allows one to collec
 12. **AnalyzeID**
 - Link: [AnalyzeID](https://analyzeid.com/)
 - Description: Just looking for sites that supposedly may have the same owner. Including a FaceBook App ID match.
+
+13. **SOWsearch**
+- Link: [sowsearch](https://www.sowsearch.info/)
+- Description: a simple interface to show how the current Facebook search function works.
+
+14. **Facebook Matrix**
+- Link: [FacebookMatrix](https://plessas.net/facebookmatrix)
+- Description: Formulas for Searching Facebook.
+
  
 ## Instagram -
  
