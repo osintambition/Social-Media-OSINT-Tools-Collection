@@ -451,6 +451,18 @@ Social Media Osint, also known as Social media intelligence allows one to collec
     - Link: [Social Finder](https://socialfinder.app)
     - Description: A platform to search and discover social media profiles on various platforms.
 
+11. **SnapIntel**
+    - Link: [SnapIntel](https://github.com/Kr0wZ/SnapIntel)
+    - Description: a python tool providing you information about Snapchat users.
+
+12. **AddMeS**
+    - Link: [AddMeS](https://addmes.io/)
+    - Description: The 'Add Me' directory of Snapchat users on web.
+   
+13. **A**
+    - Link: [A](A)
+    - Description: A
+
 
 ## WhatsApp
 
