@@ -564,7 +564,12 @@ Social Media Osint, also known as Social media intelligence allows one to collec
     - Link: [Tgstat RU](https://tgstat.ru)
     - Description: A Russian platform for analyzing and monitoring Telegram channels and groups.
 
+## Other
 
+1. ** Alfred OSINT**
+   - Link: [Alfred OSINT](https://github.com/Alfredredbird/alfred)
+   - Description: A Open-source tool for descovering social media accounts.
+     
 ## FAQ
 
 #### Is using Osint illegal ?
