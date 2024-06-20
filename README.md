@@ -178,6 +178,10 @@ Social Media Osint, also known as Social media intelligence allows one to collec
    - Link: [Wayback Tweets](https://memory.lol/app/)
    - Description: a tiny web service that provides historical information about twitter users.
 
+6. **SocialData API**
+   - Link: [SocialData API](https://socialdata.tools/)
+   - Description: an unofficial Twitter API alternative that allows scraping historical tweets, user profiles, lists and Twitter spaces without using Twitter's API.
+
 
 ## Pinterest
 
