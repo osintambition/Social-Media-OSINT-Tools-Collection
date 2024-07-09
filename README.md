@@ -49,98 +49,98 @@ Social Media Osint, also known as Social media intelligence allows one to collec
 ## Facebook -
 
 1.  **Facebook Recover Lookup**
-- Link: [Facebook Recover Lookup](https://www.facebook.com/login/identify?ctx=recover)
-- Description: Used to check if a given email or phone number is associated with any Facebook account or not.
+   - Link: [Facebook Recover Lookup](https://www.facebook.com/login/identify?ctx=recover)
+   - Description: Used to check if a given email or phone number is associated with any Facebook account or not.
 
 2. **CrowdTangle Link Checker**
-- Link: [CrowdTangle Link Checker](https://apps.crowdtangle.com/chrome-extension)
-- Description: Shows the specific Facebook posts, Instagram posts, tweets, and subreddits that mention this link. It works for articles, as well as YouTube videos, Facebook videos, and more.
+   - Link: [CrowdTangle Link Checker](https://apps.crowdtangle.com/chrome-extension)
+   - Description: Shows the specific Facebook posts, Instagram posts, tweets, and subreddits that mention this link. It works for articles, as well as YouTube videos, Facebook videos, and more.
 
 3. **Social Searcher**
-- Link: [Social Searcher](https://www.social-searcher.com/)
-- Description: Allows you to monitor all public social mentions in social networks and the web.
+   - Link: [Social Searcher](https://www.social-searcher.com/)
+   - Description: Allows you to monitor all public social mentions in social networks and the web.
 
 4. **Lookup-id.com**
-- Link: [Lookup-id.com](https://lookup-id.com/)
-- Description: Helps you find the Facebook ID of anyone's profile or a Group.
+   - Link: [Lookup-id.com](https://lookup-id.com/)
+   - Description: Helps you find the Facebook ID of anyone's profile or a Group.
 
 5. **Who posted this**
-- Link: [Who posted this](https://whopostedwhat.com/)
-- Description: Facebook keyword search for people who work in the public interest. It allows you to search keywords on specific dates.
+   - Link: [Who posted this](https://whopostedwhat.com/)
+   - Description: Facebook keyword search for people who work in the public interest. It allows you to search keywords on specific dates.
 
 6. **Facebook Search**
-- Link: [Facebook Search](https://www.sowsearch.info/)
-- Description: Allows you to search on Facebook for posts, people, photos, etc., using some filters.
+   - Link: [Facebook Search](https://www.sowsearch.info/)
+   - Description: Allows you to search on Facebook for posts, people, photos, etc., using some filters.
 
 7. **Hashatit**
-- Link: [Hashatit](https://www.hashatit.com/)
-- Description: A simple social media search engine for hashtags.
+   - Link: [Hashatit](https://www.hashatit.com/)
+   - Description: A simple social media search engine for hashtags.
 
 8. **Facebook People Search**
-- Link: [Facebook People Search](https://www.facebook.com/directory/people/)
-- Description: Search on Facebook by victim's name.
+   - Link: [Facebook People Search](https://www.facebook.com/directory/people/)
+   - Description: Search on Facebook by victim's name.
 
 9. **DumpItBlue**
-- Link: [DumpItBlue+](https://chrome.google.com/webstore/detail/dumpitblue%2B/igmgknoioooacbcpcfgjigbaajpelbfe/)
-- Description: helps to dump Facebook stuff for analysis or reporting purposes.
+   - Link: [DumpItBlue+](https://chrome.google.com/webstore/detail/dumpitblue%2B/igmgknoioooacbcpcfgjigbaajpelbfe/)
+   - Description: helps to dump Facebook stuff for analysis or reporting purposes.
 
 10. **Export Comments**
-- Link: [Export Comments](https://exportcomments.com/)
-- Description: Easily exports all comments from your social media posts to Excel file.
+   - Link: [Export Comments](https://exportcomments.com/)
+   - Description: Easily exports all comments from your social media posts to Excel file.
 
 11. **Facebook Applications**
-- Link: [Facebook Applications](https://khalil-shreateh.com/khalil.shtml/social_applications/facebook-applications/)
-- Description: A collection of online tools that automate and facilitate Facebook.
+   - Link: [Facebook Applications](https://khalil-shreateh.com/khalil.shtml/social_applications/facebook-applications/)
+   - Description: A collection of online tools that automate and facilitate Facebook.
 
 12. **Social Analyzer**
-- Link: [SocialAnalyzer - Social Sentiment & Analysis](https://chromewebstore.google.com/detail/socialanalyzer-social-sen/efeikkcpimdfpdlmlbjdecnmkknjcfcp)
-- Description: a free tool of social media monitoring and analysis.
+   - Link: [SocialAnalyzer - Social Sentiment & Analysis](https://chromewebstore.google.com/detail/socialanalyzer-social-sen/efeikkcpimdfpdlmlbjdecnmkknjcfcp)
+   - Description: a free tool of social media monitoring and analysis.
 
-12. **AnalyzeID**
-- Link: [AnalyzeID](https://analyzeid.com/)
-- Description: Just looking for sites that supposedly may have the same owner. Including a FaceBook App ID match.
+13. **AnalyzeID**
+   - Link: [AnalyzeID](https://analyzeid.com/)
+   - Description: Just looking for sites that supposedly may have the same owner. Including a FaceBook App ID match.
 
-13. **SOWsearch**
-- Link: [sowsearch](https://www.sowsearch.info/)
-- Description: a simple interface to show how the current Facebook search function works.
+14. **SOWsearch**
+   - Link: [sowsearch](https://www.sowsearch.info/)
+   - Description: a simple interface to show how the current Facebook search function works.
 
-14. **Facebook Matrix**
-- Link: [FacebookMatrix](https://plessas.net/facebookmatrix)
-- Description: Formulas for Searching Facebook.
+15. **Facebook Matrix**
+   - Link: [FacebookMatrix](https://plessas.net/facebookmatrix)
+   - Description: Formulas for Searching Facebook.
 
  
 ## Instagram -
  
 1. **SnapInsta**
-- Link: [SnapInsta](https://snapinsta.app)
-- Description: Download Photos, Videos, IGTV & more from a public Instagram account.
+   - Link: [SnapInsta](https://snapinsta.app)
+   - Description: Download Photos, Videos, IGTV & more from a public Instagram account.
 
 2. **IFTTT Integrations**
-- Link: [IFTTT Instagram integrations](https://ifttt.com/instagram)
-- Description: Popular Instagram workflows & automations.
+   - Link: [IFTTT Instagram integrations](https://ifttt.com/instagram)
+   - Description: Popular Instagram workflows & automations.
 
 3. **Pickuki**
-- Link: [Pickuki](https://www.picuki.com/)
-- Description: Browse publicly available Instagram content without logging in.
+   - Link: [Pickuki](https://www.picuki.com/)
+   - Description: Browse publicly available Instagram content without logging in.
 
 4. **IMGinn.io**
-- Link: [IMGinn.io](https://imginn.io/)
-- Description: view and download all the content on the social network Instagram all at one place. 
+   - Link: [IMGinn.io](https://imginn.io/)
+   - Description: view and download all the content on the social network Instagram all at one place. 
 
 5. **Instaloader**
-- Link: [Instaloader](https://github.com/instaloader/instaloader)
-- Description: Download pictures (or videos) along with their captions and other metadata from Instagram.
+   - Link: [Instaloader](https://github.com/instaloader/instaloader)
+   - Description: Download pictures (or videos) along with their captions and other metadata from Instagram.
 
 
 ## LinkedIn -
 
 1. **RecruitEm**
-- Link: [RecruitEm](https://recruitin.net/)
-- Description: Allows you to search social media profiles. It helps recruiters to create a Google boolean string that searches all public profiles.
+   - Link: [RecruitEm](https://recruitin.net/)
+   - Description: Allows you to search social media profiles. It helps recruiters to create a Google boolean string that searches all public profiles.
 
 2. **RocketReach**
-- Link: [RocketReach](https://rocketreach.co/person)
-- Description: Allows you to programmatically search and lookup contact info over 700 million professionals and 35 million companies.
+   - Link: [RocketReach](https://rocketreach.co/person)
+   - Description: Allows you to programmatically search and lookup contact info over 700 million professionals and 35 million companies.
 
 3. **Phantom Buster**
    - Link: [Phantom Buster](https://phantombuster.com/phantombuster)
