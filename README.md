@@ -107,8 +107,19 @@ Social Media Osint, also known as Social media intelligence allows one to collec
 15. **Facebook Matrix**
       - Link: [FacebookMatrix](https://plessas.net/facebookmatrix)
       - Description: Formulas for Searching Facebook.
-
- 
+16. **Who posted what**
+      - Link: [Who Posted What](https://whopostedwhat.com/)
+      - Description: A non public Facebook keyword search for people who work in the public interest. It allows you to search keywords on specific dates.
+18. **StalkFace**
+      - Link: [StalkFace](https://stalkface.com/en/)
+      - Description: Toolkit to stalk someone on Facebook.
+20. **Search is Back**
+      - Link: [Search is Back](https://searchisback.com/)
+      - Description: ind people and events on Facebook
+Search by location, relationships, and more!.
+22. **Facebook Graph Searcher**
+      - Link: [Facebook Graph Searcher](https://intelx.io/tools?tab=facebook)
+      - Description: To search someone on Facebook.
 ## Instagram -
  
 1. **SnapInsta**
