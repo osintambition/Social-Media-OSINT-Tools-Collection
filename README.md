@@ -72,9 +72,9 @@ Social Media Osint, also known as Social media intelligence allows one to collec
    - Link: [Facebook Search](https://www.sowsearch.info/)
    - Description: Allows you to search on Facebook for posts, people, photos, etc., using some filters.
 
-7. **Hashatit**
-   - Link: [Hashatit](https://www.hashatit.com/)
-   - Description: A simple social media search engine for hashtags.
+7. **Facebook Graph Searcher**
+   - Link: [Facebook Graph Searcher](https://intelx.io/tools?tab=facebook)
+   - Description: To search someone on Facebook.
 
 8. **Facebook People Search**
    - Link: [Facebook People Search](https://www.facebook.com/directory/people/)
@@ -113,13 +113,11 @@ Social Media Osint, also known as Social media intelligence allows one to collec
 18. **StalkFace**
       - Link: [StalkFace](https://stalkface.com/en/)
       - Description: Toolkit to stalk someone on Facebook.
-20. **Search is Back**
+19. **Search is Back**
       - Link: [Search is Back](https://searchisback.com/)
       - Description: ind people and events on Facebook
 Search by location, relationships, and more!.
-22. **Facebook Graph Searcher**
-      - Link: [Facebook Graph Searcher](https://intelx.io/tools?tab=facebook)
-      - Description: To search someone on Facebook.
+
 ## Instagram -
  
 1. **SnapInsta**
