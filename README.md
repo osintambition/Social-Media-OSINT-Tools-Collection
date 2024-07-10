@@ -219,16 +219,16 @@ Search by location, relationships, and more!.
    - Description: Provides you a interface with various tools for Linkedin Osint.
 
 10. **LinkedInt**
-   - Link: [LinkedInt](https://github.com/vysecurity/LinkedInt)
-   - Description: Providing you with Linkedin Intelligence.
+      - Link: [LinkedInt](https://github.com/vysecurity/LinkedInt)
+      - Description: Providing you with Linkedin Intelligence.
 
 11. **InSpy**
-   - Link: [InSpy](https://github.com/jobroche/InSpy)
-   - Description: InSpy is a python based LinkedIn enumeration tool.
+      - Link: [InSpy](https://github.com/jobroche/InSpy)
+      - Description: InSpy is a python based LinkedIn enumeration tool.
 
 12. **CrossLinked**
-   - Link: [CrossLinked](https://github.com/m8sec/CrossLinked)
-   - Description: CrossLinked is a LinkedIn enumeration tool that uses search engine scraping to collect valid employee names from an organization. 
+      - Link: [CrossLinked](https://github.com/m8sec/CrossLinked)
+      - Description: CrossLinked is a LinkedIn enumeration tool that uses search engine scraping to collect valid employee names from an organization. 
 
 ## Twitter -
  
