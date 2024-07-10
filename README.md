@@ -140,6 +140,48 @@ Search by location, relationships, and more!.
    - Link: [Instaloader](https://github.com/instaloader/instaloader)
    - Description: Download pictures (or videos) along with their captions and other metadata from Instagram.
 
+6. **SolG**
+   - Link: [SolG](https://github.com/yezz123/SoIG)
+   - Description: The Instagram OSINT Tool gets a range of information from an Instagram account that you normally wouldn't be able to get from just looking at their profile.
+
+7. **Osintgram**
+   - Link: [Osintgram](https://github.com/Datalux/Osintgram)
+   - Description: Osintgram is an OSINT tool on Instagram to collect, analyze, and run reconnaissance.
+     
+8. **Toutatis**
+   - Link: [toutatis](https://pypi.org/project/toutatis/)
+   - Description: It is a tool written to retrieve private information such as Phone Number, Mail Address, ID on Instagram accounts via API.
+
+9. **instalooter**
+   - Link: [instalooter](https://pypi.org/project/instalooter/)
+   - Description: InstaLooter is a program that can download any picture or video associated from an Instagram profile, without any API access.
+
+10. **Exportgram**
+   - Link: [Exportgram](https://exportgram.net/)
+   - Description: A web application made for people who want to export instagram comments into excel, csv and json formats.
+
+11. **Profile Analyzer**
+   - Link: [Profile Analyzer](https://inflact.com/tools/profile-analyzer/)
+   - Description: Analyze any public profile on Instagram – the tool is free, unlimited, and secure. Enter a username to take advantage of precise statistics.
+
+12. **Find Instagram User Id**
+   - Link: [Find Instagram User Id](https://www.codeofaninja.com/tools/find-instagram-user-id/)
+   - Description: This tool called "Find Instagram User ID" provides an easy way for developers and designers to get Instagram account numeric ID by username.
+
+13. **Instahunt**
+   - Link: [Instahunt](https://instahunt.huntintel.io/)
+   - Description: Easily find social media posts surrounding a location.
+
+14. **InstaFreeView**
+   - Link: [InstaFreeView](https://instafreeview.com/)
+   - Description: InstaFreeView Private Instagram Profile Viewer is a free app to view Instagram profile posts without login.
+
+15. **InstaNavigation**
+   - Link: [instanavigation](https://instanavigation.com/)
+   - Description: Anonymous story viewing on Instagram.
+
+   - Link: []()
+   - Description: 
 
 ## LinkedIn -
 
