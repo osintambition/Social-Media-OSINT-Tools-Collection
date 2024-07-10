@@ -180,9 +180,6 @@ Search by location, relationships, and more!.
       - Link: [instanavigation](https://instanavigation.com/)
       - Description: Anonymous story viewing on Instagram.
 
-   - Link: []()
-   - Description: 
-
 ## LinkedIn -
 
 1. **RecruitEm**
@@ -196,17 +193,43 @@ Search by location, relationships, and more!.
 3. **Phantom Buster**
    - Link: [Phantom Buster](https://phantombuster.com/phantombuster)
    - Description: Automation tool suite that includes data extraction capabilities.
+     
 4. **linkedprospect**
    - Link: [LinkedIn Boolean Search](https://linkedprospect.com/linkedin-boolean-search-tool/#tool)
    - Description: Build a targeted list of LinkedIn people using boolean search.
-4. **ReverseContact**
+
+5. **ReverseContact**
    - Link: [Reverse Email Lookup](https://www.reversecontact.com/)
    - Description: Find Linked Profiles associated with any email.
-4. **LinkedIn Search Engine**
+
+6. **LinkedIn Search Engine**
    - Link: [Programmable Search Engine](https://cse.google.com/cse?cx=daaf18e804f81bed0)
    - Description: Programmable Search Engine for LinkedIn profiles.
 
- 
+7. **Free People Search Tool**
+   - Link: [Free People Search Tool](https://freepeoplesearchtool.com/#gsc.tab=0)
+   - Description: Find people easily online.
+
+8. **IntelligenceX Linkedin**
+   - Link: [IntelligenceX Linkedin](https://intelx.io/tools?tab=linkedin)
+   - Description: A webbased tool for searching someone on Linkedin.
+
+9. **Linkedin Search Tool**
+   - Link: [Linkedin Search Tool](https://inteltechniques.com/tools/Linkedin.html)
+   - Description: Provides you a interface with various tools for Linkedin Osint.
+
+10. **LinkedInt**
+   - Link: [LinkedInt](https://github.com/vysecurity/LinkedInt)
+   - Description: Providing you with Linkedin Intelligence.
+
+11. **InSpy**
+   - Link: [InSpy](https://github.com/jobroche/InSpy)
+   - Description: InSpy is a python based LinkedIn enumeration tool.
+
+12. **CrossLinked**
+   - Link: [CrossLinked](https://github.com/m8sec/CrossLinked)
+   - Description: CrossLinked is a LinkedIn enumeration tool that uses search engine scraping to collect valid employee names from an organization. 
+
 ## Twitter -
  
 1. **TweetDeck**
