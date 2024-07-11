@@ -36,15 +36,23 @@ The OSINT Ambition is a comprehensive and dynamic project aimed at empowering pe
 
 [9. Github](#github)
 
-[10. Discord](#Discord)
+[10. Snapchat](#Snapchat)
 
-[11. VK](#VK)
+[11. Whatsapp](#Whatsapp)
 
-[12. ONLYFANS](#ONLYFANS)
+[12. Skype](#Skype)
 
-[13. TikTok](#TikTok)
+[13. Telegram](#Telegram)
 
-[10. FAQs](#faq )
+[14. Discord](#Discord)
+
+[15. VK](#VK)
+
+[16. ONLYFANS](#ONLYFANS)
+
+[17. TikTok](#TikTok)
+
+[18. FAQs](#faq )
 
 ## What is OSINT
 
