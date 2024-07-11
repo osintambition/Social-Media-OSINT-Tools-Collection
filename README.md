@@ -695,7 +695,7 @@ Search by location, relationships, and more!.
     - Description: A Russian platform for analyzing and monitoring Telegram channels and groups.
       
 ## Discord
-1.**DiscordOSINT**
+1. **DiscordOSINT**
    - Link: [DiscordOSINT](https://github.com/husseinmuhaisen/DiscordOSINT?tab=readme-ov-file#-discord-search-syntax-)
    - Description: This Repository Will contain useful resources to conduct research on Discord.
 
