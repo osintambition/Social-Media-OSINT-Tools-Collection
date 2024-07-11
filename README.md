@@ -46,13 +46,11 @@ The OSINT Ambition is a comprehensive and dynamic project aimed at empowering pe
 
 [14. Discord](#Discord)
 
-[15. VK](#VK)
+[15. ONLYFANS](#ONLYFANS)
 
-[16. ONLYFANS](#ONLYFANS)
+[16. TikTok](#TikTok)
 
-[17. TikTok](#TikTok)
-
-[18. FAQs](#faq )
+[17. FAQs](#faq )
 
 ## What is OSINT
 
@@ -697,14 +695,33 @@ Search by location, relationships, and more!.
     - Description: A Russian platform for analyzing and monitoring Telegram channels and groups.
       
 ## Discord
-1.**
-   - Link: []()
-   - Description:
+1.**DiscordOSINT**
+   - Link: [DiscordOSINT](https://github.com/husseinmuhaisen/DiscordOSINT?tab=readme-ov-file#-discord-search-syntax-)
+   - Description: This Repository Will contain useful resources to conduct research on Discord.
 
-## VK
-1.**
-   - Link: []()
-   - Description:
+2. **Discord.name**
+   - Link: [Discord.name](https://discord.name/)
+   - Description: Discord profile lookup using user ID.
+
+3. **Lookupguru**
+   - Link: [Lookupguru](https://lookup.guru/)
+   - Description: Discord profile lookup using user ID.
+
+4. **Discord History Tracker**
+   - Link: [Discord History Tracker](https://dht.chylex.com/      )
+   - Description: Discord History Tracker lets you save chat history in your servers, groups, and private conversations, and view it offline.
+
+5. **Top.gg**
+   - Link: [Top.gg](https://top.gg/)
+   - Description: Explore millions of Discord Bots.
+
+6. **Unofficial Discord Lookup**
+   - Link: [Unofficial Discord Lookup](https://discord.id/)
+   - Description: Search for discord profile using id.
+
+7. **Disboard**
+   - Link: [Disboard](https://disboard.org/)
+   - Description: DISBOARD is the place where you can list/find Discord servers.
 
 ## ONLYFANS
 
