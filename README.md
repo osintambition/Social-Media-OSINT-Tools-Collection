@@ -36,6 +36,14 @@ The OSINT Ambition is a comprehensive and dynamic project aimed at empowering pe
 
 [9. Github](#github)
 
+[10. Discord](#Discord)
+
+[11. VK](#VK)
+
+[12. ONLYFANS](#ONLYFANS)
+
+[13. TikTok](#TikTok)
+
 [10. FAQs](#faq )
 
 ## What is OSINT
@@ -679,6 +687,72 @@ Search by location, relationships, and more!.
 18. **Tgstat RU**
     - Link: [Tgstat RU](https://tgstat.ru)
     - Description: A Russian platform for analyzing and monitoring Telegram channels and groups.
+      
+## Discord
+1.**
+   - Link: []()
+   - Description:
+
+## VK
+1.**
+   - Link: []()
+   - Description:
+
+## ONLYFANS
+
+1. **OnlyFinder**
+   - Link: [OnlyFinder](https://onlyfinder.com/)
+   - Description: OnlyFans Search Engine - OnlyFans Account Finder.
+
+2. **OnlySearch**
+   - Link: [OnlySearch](https://onlysearch.co/)
+   - Description: Find OnlyFans profiles by searching for key words.
+
+3. **Sotugas**
+   - Link: [SóTugas](https://sotugas.com/)
+   - Description: Encontra Contas do OnlyFans Portugal 🇵🇹.
+
+4. **Fansmetrics**
+   - Link: [Fansmetrics](https://fansmetrics.com/)
+   - Description: Use this OnlyFans Finder to search in 3,000,000 OnlyFans Accounts.
+
+5. **Findr.fans**
+   - Link: [Findr.fans](https://findr.fans/)
+   - Description: Only Fans Search Tool.
+
+6. **Hubite**
+   - Link: [Hubite](https://hubite.com/en/onlyfans-search/)
+   - Description: Advanced OnlyFans Search Engine.
+
+7. **Similarfans**
+   - Link: [Similarfans](https://similarfans.com/)
+   - Description: Blog for OnlyFans content creators.
+
+8. **Fansearch**
+   - Link: [Fansearch](https://www.fansearch.com/)
+   - Description: Fansearch is the best OnlyFans Finder to search in 3,000,000 OnlyFans Accounts.
+
+9. **Fulldp**
+   - Link: [Fulldp](https://fulldp.co/onlyfans-full-size-profile-picture/)
+   - Description: Download Onlyfans Full-Size Profile Pictures.
+  
+## TikTok
+
+1. **Mavekite**
+   - Link: [Mavekite](https://mavekite.com/)
+   - Description: Search the profile using username.
+
+2. **TikTok hashtag analysis toolset**
+   - Link: [TikTok hashtag analysis toolset](https://github.com/bellingcat/tiktok-hashtag-analysis)
+   - Description: The tool helps to download posts and videos from TikTok for a given set of hashtags over a period of time.
+
+3. **TikTok Video Downloader**
+   - Link: [TikTok Video Downloader](https://ssstik.io/en-1)
+   - Description: ssstiktok is a free TikTok video downloader without watermark tool that helps you download TikTok videos without watermark (Musically) online.
+
+4. **Exolyt**
+   - Link: [exolyt](https://exolyt.com/)
+   - Description: The best tool for TikTok analytics & insights.
 
 ## Other
 
