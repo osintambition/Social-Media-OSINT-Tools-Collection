@@ -318,9 +318,9 @@ Search by location, relationships, and more!.
    - Link: [Pingroupie](http://pingroupie.com)
    - Description: A Meta Search Engine for Pinterest that lets you discover Collaborative Boards, Influencers, Pins, and new Keywords.
 
-4. **Pinontop**
-   - Link: [Pinontop](https://chrome.google.com/webstore/detail/pinontop-stay-ontop-of-p/ompbffakmhdgkeeholbbhpjlcmbdcnme?hl=en)
-   - Description: Google Chrome extension for keeping Pinterest on top of other windows while browsing.
+4. **Tailwind**
+   - Link: [Tailwind](https://www.tailwindapp.com)
+   - Description: Social media scheduling and management tool that supports Pinterest.
 
 5. **Pinterest Guest**
    - Link: [Pinterest Guest](https://addons.mozilla.org/en-US/firefox/addon/pinterest-guest)
@@ -329,10 +329,6 @@ Search by location, relationships, and more!.
 6. **SourcingLab: Pinterest**
    - Link: [SourcingLab: Pinterest](https://sourcinglab.io/search/pinterest)
    - Description: Pinterest search feature for finding pins, boards, and users.
-
-7. **Tailwind**
-   - Link: [Tailwind](https://www.tailwindapp.com)
-   - Description: Social media scheduling and management tool that supports Pinterest.
 
 ## Reddit
 
