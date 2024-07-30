@@ -2,6 +2,9 @@
 
 A collection of most useful tools for social media osint.
 
+## Essential Osint Updates Delivered to Your Inbox
+Join our newsletter today - https://newsletter.osintambition.org/
+
 ## Authors
 
 - [@osintambition](https://github.com/osintambition)
