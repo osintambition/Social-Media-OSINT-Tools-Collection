@@ -3,7 +3,7 @@
 A collection of most useful tools for social media osint.
 
 ## Essential Osint Updates Delivered to Your Inbox
-Join our newsletter today - https://newsletter.osintambition.org/
+Join our newsletter today - https://osintupdates.com/
 
 ## Authors
 
