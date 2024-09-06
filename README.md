@@ -5,6 +5,9 @@ A collection of most useful tools for social media osint.
 ## Essential Osint Updates Delivered to Your Inbox
 Join our newsletter today - https://osintupdates.com/
 
+## Best OSINT Tools Directory
+Checkout Next-gen OSINT tools directory - https://osinttools.io/
+
 ## Authors
 
 - [@osintambition](https://github.com/osintambition)
