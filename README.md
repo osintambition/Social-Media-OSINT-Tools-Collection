@@ -224,32 +224,36 @@ Search by location, relationships, and more!.
 5. **ReverseContact**
    - Link: [Reverse Email Lookup](https://www.reversecontact.com/)
    - Description: Find Linked Profiles associated with any email.
+  
+6. **ReverseMails**
+   - Link: [Reverse Email Lookup](https://www.reversemails.com/)
+   - Description: Find LinkedIn Profiles by email.
 
-6. **LinkedIn Search Engine**
+7. **LinkedIn Search Engine**
    - Link: [Programmable Search Engine](https://cse.google.com/cse?cx=daaf18e804f81bed0)
    - Description: Programmable Search Engine for LinkedIn profiles.
 
-7. **Free People Search Tool**
+8. **Free People Search Tool**
    - Link: [Free People Search Tool](https://freepeoplesearchtool.com/#gsc.tab=0)
    - Description: Find people easily online.
 
-8. **IntelligenceX Linkedin**
+9. **IntelligenceX Linkedin**
    - Link: [IntelligenceX Linkedin](https://intelx.io/tools?tab=linkedin)
    - Description: A webbased tool for searching someone on Linkedin.
 
-9. **Linkedin Search Tool**
+10. **Linkedin Search Tool**
    - Link: [Linkedin Search Tool](https://inteltechniques.com/tools/Linkedin.html)
    - Description: Provides you a interface with various tools for Linkedin Osint.
 
-10. **LinkedInt**
+11. **LinkedInt**
       - Link: [LinkedInt](https://github.com/vysecurity/LinkedInt)
       - Description: Providing you with Linkedin Intelligence.
 
-11. **InSpy**
+12. **InSpy**
       - Link: [InSpy](https://github.com/jobroche/InSpy)
       - Description: InSpy is a python based LinkedIn enumeration tool.
 
-12. **CrossLinked**
+13. **CrossLinked**
       - Link: [CrossLinked](https://github.com/m8sec/CrossLinked)
       - Description: CrossLinked is a LinkedIn enumeration tool that uses search engine scraping to collect valid employee names from an organization. 
 
