@@ -5,11 +5,13 @@ A collection of most useful tools for social media osint.
 ## Some of our useful products for OSINT loves -
 Free weekly OSINT Newsletter - [osintupdates.com](https://osintupdates.com)
 
-Learn OSINT from Experts - [osintteam.com](https://osintteam.com)
+Learn OSINT from Experts - [osintteam.com](https://blogs.com)
 
 Best OSINT Tools Directory - [osinttools.io](https://osinttools.io)
 
-Free OSINT eBook's and Guides - [osintambition.org](https://osinttools.io)
+Your one-stop destination for the best OSINT resources  - [osintresources.com](https://www.osintresources.com/)
+
+Free OSINT eBooks and Guides - [osintambition.org](https://osinttools.io)
 
 ## Authors
 
