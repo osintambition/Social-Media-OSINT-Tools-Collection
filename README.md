@@ -3,9 +3,10 @@
 A collection of most useful tools for social media osint.
 
 ## Some of our useful products for OSINT loves -
+
 Free weekly OSINT Newsletter - [osintupdates.com](https://osintupdates.com)
 
-Learn OSINT from Experts - [osintteam.com](https://blogs.com)
+Get Free Tickets for OSINTCon - [osintconference.com](https://osintconference.com/)
 
 Best OSINT Tools Directory - [osinttools.io](https://osinttools.io)
 
@@ -736,39 +737,42 @@ Search by location, relationships, and more!.
 
 ## ONLYFANS
 
-1. **OnlyFinder**
+1. **OnlyFans Finder**
+   - Link: [The Favourite OnlyFans search](https://onlyfansfinder.co/)
+   - Description: The tools allow easy searching via advanced filtering capabilities and sorting functionality, making it easy to access desired material.
+3. **OnlyFinder**
    - Link: [OnlyFinder](https://onlyfinder.com/)
    - Description: OnlyFans Search Engine - OnlyFans Account Finder.
 
-2. **OnlySearch**
+4. **OnlySearch**
    - Link: [OnlySearch](https://onlysearch.co/)
    - Description: Find OnlyFans profiles by searching for key words.
 
-3. **Sotugas**
+5. **Sotugas**
    - Link: [SóTugas](https://sotugas.com/)
    - Description: Encontra Contas do OnlyFans Portugal 🇵🇹.
 
-4. **Fansmetrics**
+6. **Fansmetrics**
    - Link: [Fansmetrics](https://fansmetrics.com/)
    - Description: Use this OnlyFans Finder to search in 3,000,000 OnlyFans Accounts.
 
-5. **Findr.fans**
+7. **Findr.fans**
    - Link: [Findr.fans](https://findr.fans/)
    - Description: Only Fans Search Tool.
 
-6. **Hubite**
+8. **Hubite**
    - Link: [Hubite](https://hubite.com/en/onlyfans-search/)
    - Description: Advanced OnlyFans Search Engine.
 
-7. **Similarfans**
+9. **Similarfans**
    - Link: [Similarfans](https://similarfans.com/)
    - Description: Blog for OnlyFans content creators.
 
-8. **Fansearch**
+10. **Fansearch**
    - Link: [Fansearch](https://www.fansearch.com/)
    - Description: Fansearch is the best OnlyFans Finder to search in 3,000,000 OnlyFans Accounts.
 
-9. **Fulldp**
+11. **Fulldp**
    - Link: [Fulldp](https://fulldp.co/onlyfans-full-size-profile-picture/)
    - Description: Download Onlyfans Full-Size Profile Pictures.
   
