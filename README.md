@@ -780,6 +780,31 @@ Search by location, relationships, and more!.
 11. **Fulldp**
    - Link: [Fulldp](https://fulldp.co/onlyfans-full-size-profile-picture/)
    - Description: Download Onlyfans Full-Size Profile Pictures.
+
+12. **SecretFans**
+ - Link: [SecretFans](https://secretfans.net/)
+ - Description: Search engine for discovering OnlyFans creators and profiles.
+  
+13. **GirlFindr**
+ - Link: [GirlFindr](https://girlfindr.com/)
+ - Description: Finder tool to explore and locate OnlyFans creators.
+
+14. **FreeFans.nl**
+ - Link: [FreeFans.nl](https://freefans.nl/)
+ - Description: Free directory listing OnlyFans creators, primarily focused on Dutch creators.
+
+15. **FreeFans.de**
+ - Link: [FreeFans.de](https://freefans.de/)
+ - Description: German-based OnlyFans listing and discovery platform.
+
+16. **OnlyBritish**
+ - Link: [OnlyBritish](https://onlybritish.uk/)
+ - Description: Platform showcasing OnlyFans creators from the United Kingdom.
+
+17. **OnlySuomi**
+ - Link: [OnlySuomi](https://onlysuomi.fi/)
+ - Description: Finnish-focused directory for discovering OnlyFans creators.
+
   
 ## TikTok
 
@@ -804,6 +829,11 @@ Search by location, relationships, and more!.
 1. ** Alfred OSINT**
    - Link: [Alfred OSINT](https://github.com/Alfredredbird/alfred)
    - Description: A Open-source tool for descovering social media accounts.
+  
+2.  ** oftoolbox **
+    - Link: [oftoolbox](https://oftoolbox.net)
+    - Description: OFToolbox.net is a list of the best tools for you to create, share and monetize adult content on platforms such as OnlyFans.
+      
      
 ## FAQ
 
